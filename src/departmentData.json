@@ -1,0 +1,17 @@
+[
+    {
+      "name": "Department A",
+      "subDepartments": [
+        { "name": "Sub-Department A1" },
+        { "name": "Sub-Department A2" }
+      ]
+    },
+    {
+      "name": "Department B",
+      "subDepartments": [
+        { "name": "Sub-Department B1" },
+        { "name": "Sub-Department B2" }
+      ]
+    }
+  ]
+  
